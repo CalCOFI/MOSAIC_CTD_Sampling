@@ -5,7 +5,7 @@ This protocol describes the methods used to collect eDNA samples at sea from wat
 
 | File Name              | Description            | Concept DOI                          | Latest Version DOI                      |
 |------------------------|-----------------------|---------------------------------------|------------------------------------------|
-| `MOSAIC_CTD_Sampling_Protocol-v3-NVP.md`        | Version 1.0.0 | [10.5281/zenodo.17917521](https://zenodo.org/account/settings/github/repository/CalCOFI/MOSAIC_Underway_Sampling) | [10.5281/zenodo.17917521](https://zenodo.org/account/settings/github/repository/CalCOFI/MOSAIC_Underway_Sampling) |
+| `MOSAIC_CTD_Sampling_Protocol-v3-NVP.md`        | Version 1.0.0 | [10.5281/zenodo.17956651](https://zenodo.org/account/settings/github/repository/CalCOFI/MOSAIC_CTD_Sampling) | [10.5281/zenodo.17956651](https://zenodo.org/account/settings/github/repository/CalCOFI/MOSAIC_CTD_Sampling) |
 
 ## How to Cite
 
