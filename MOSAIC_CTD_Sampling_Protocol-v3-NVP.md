@@ -72,7 +72,7 @@ code_repo: github.com/CalCOFI/eDNA-protocols
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | yyyy-mm-dd | Initial release |
+| 1.0.0 | 2025-12-16 | Initial release |
 
 ### Acronyms and Abbreviations
 
@@ -88,7 +88,7 @@ code_repo: github.com/CalCOFI/eDNA-protocols
 
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
-| Niskin bottle | Water sampling bottle attached to CTD instrument, used to sample seawater at different depths |
+| Niskin bottle | Water sampling bottle attached to CTD rosette, used to sample seawater at different depths |
 
 ## BACKGROUND
 
